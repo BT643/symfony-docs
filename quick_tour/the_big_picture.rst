@@ -252,9 +252,9 @@ you'll see the following code:
 
     {# app/Resources/views/default/index.html.twig #}
     {% extends 'base.html.twig' %}
-
+    
     {% block body %}
-        <h1>Welcome to Symfony!</h1>
+        Homepage.
     {% endblock %}
 
 This template is created with `Twig`_, a new template engine created for
